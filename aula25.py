@@ -3,4 +3,4 @@ print('primeiro programa')
     3+4
 help(print)
 
-#não printa no python3, não sei por que printa na aula. O_O
+#não printa no python3, não sei por que printa na aula. O_O 
